@@ -1,8 +1,9 @@
 ---
-title: Don't worry
+title: "Don't worry"
 date: "2023-06-30T20:04:03.284Z"
 description: "Impact of the book "How to Stop Worrying and Start Living" of Dale Carnegie"
 ---
+
 # Impact of the book "How to Stop Worrying and Start Living" of Dale Carnegie
 
 
