@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Ask the Book`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Alexey Rubtsov`,
+      summary: `Ex-developer, ex-project manager writing about books`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Asking my questions to the books.`,
+    siteUrl: `https://www.tema-editor.app`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `rushills`,
     },
   },
   plugins: [
