@@ -14,7 +14,7 @@ module.exports = {
       name: `Alexey Rubtsov`,
       summary: `Ex-developer, ex-project manager writing about books`,
     },
-    description: `Asking my questions to the books.`,
+    description: `Asking my questions to books.`,
     siteUrl: `https://www.tema-editor.app`,
     social: {
       twitter: `rushills`,
@@ -102,7 +102,7 @@ module.exports = {
               }
             }`,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "Ask the Book Blog RSS Feed",
           },
         ],
       },
@@ -110,8 +110,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `Gatsby`,
+        name: `Ask the Book blog`,
+        short_name: `Ask the Book`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
