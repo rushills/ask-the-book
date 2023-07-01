@@ -12,7 +12,7 @@ module.exports = {
     title: `Ask the Book`,
     author: {
       name: `Alexey Rubtsov`,
-      summary: `Ex-developer, ex-project manager writing about books`,
+      summary: `Ex-developer, ex-project manager asking questions to books with Tema-Editor`,
     },
     description: `Asking my questions to books.`,
     siteUrl: `https://askthebook.tema-editor.app`,
