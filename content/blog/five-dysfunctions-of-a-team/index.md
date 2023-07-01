@@ -4,12 +4,7 @@ date: "2023-07-01T22:12:03.284Z"
 description: "Asking \"The Five Dysfunctions of a Team\""
 ---
 ![The Five Dysfunctions of a Team](1687274424425.png)
-
-# The Five Dysfunctions of a Team
-
-
 Teams are similar, yet they can be vastly different. There are authors and thinkers who attempt to summarize the reasons for team dysfunction. One such author is Patrick Lencioni. Let's examine his book, 'The Five Dysfunctions of a Team.'
-
 
 According to the book "The Five Dysfunctions of a Team - Team Assessment" by Patrick Lencioni, the five dysfunctions of a team are:
 
@@ -24,7 +19,6 @@ According to the book "The Five Dysfunctions of a Team - Team Assessment" by Pat
 5. Inattention to Results: This occurs when team members prioritize their individual goals over the team's goals, resulting in a lack of focus on achieving the team's objectives. [1]
 
 Let's summarize the recipes we can find in the book.
-
 
 Patrick Lencioni proposes several strategies to combat the absence of trust within a team. One of the key strategies is to encourage team members to be vulnerable with one another. This means that team members should be willing to admit their weaknesses, mistakes, and limitations to their colleagues. By doing so, team members can build stronger relationships based on mutual understanding and empathy. Additionally, Lencioni suggests that team leaders should model vulnerability themselves, in order to set an example for their team members. Finally, Lencioni recommends that teams engage in activities that promote trust-building, such as team-building exercises or off-site retreats. [1]
 
@@ -47,4 +41,3 @@ We can draw a conclusion that a team's success is dependent on the ability of it
 # References
 
 1 - Lencioni, P. (2012). The Five Dysfunctions of a Team - Team Assessment. Pfeiffer.
-

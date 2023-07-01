@@ -4,14 +4,9 @@ date: "2023-05-31T22:12:03.284Z"
 description: "Few questions to \"The Lazy Project Manager\""
 ---
 
-# The Lazy Project Manager
-
-
 As a project manager, time management is one of the most crucial aspects of the job. It's a common challenge that every project manager faces, and it can be quite stressful. But hey, managing time effectively can make or break a project, so it's worth the effort. There are tons of memes, anecdotes, and stories about the stress that project managers experience at work. For instance, a project manager may have to deal with tight deadlines, unexpected delays, and constantly changing priorities. As a former developer turned manager, I can totally relate to the fact that the transition can be overwhelming. However, with experience and the right tools, it's totally possible to manage time effectively and deliver successful projects.
 
-
 According to 'The Lazy Project Manager', the most important skill to avoid overworking is effective time management. The author, Peter Taylor, emphasizes the importance of focusing on the critical aspects of a project and prioritizing tasks to maximize productivity. By doing so, project managers can achieve more with less effort, ultimately avoiding overworking and leaving the office early.
-
 
 "The Lazy Project Manager" by Peter Taylor is a guide for project managers who want to work smarter, not harder. The book offers practical advice and strategies to help project managers become more efficient and effective in their roles. The main outcomes from the book can be summarized as follows:
 
@@ -33,9 +28,7 @@ In summary, "The Lazy Project Manager" provides valuable insights and practical 
 
 https://www.goodreads.com/book/show/10146502-the-lazy-project-manager?from_search=true&from_srp=true&qid=uUXFRKt1pY&rank=1
 
-
 You can ask your questions to the books yourself with tema-editor.app
-
 
 # References
 
@@ -52,4 +45,3 @@ ISBN: 978-1906821135,
 Pages: 152,
 
 Language: English
-
