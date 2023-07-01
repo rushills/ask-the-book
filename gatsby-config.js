@@ -15,7 +15,7 @@ module.exports = {
       summary: `Ex-developer, ex-project manager writing about books`,
     },
     description: `Asking my questions to books.`,
-    siteUrl: `https://www.tema-editor.app`,
+    siteUrl: `https://askthebook.tema-editor.app`,
     social: {
       twitter: `rushills`,
     },
