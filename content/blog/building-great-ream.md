@@ -1,6 +1,6 @@
 ---
 title: Bulding great team - Start with Why
-date: "2023-06-21T22:12:03.284Z"
+date: "2023-05-30T22:12:03.284Z"
 description: "Start with Why: How Great Leaders Inspire Everyone to Take Action is a book written by Simon Sinek. It was published in 2009 by Portfolio. The book explores the concept of starting with why, and how great leaders inspire others to take action. With a focus on understanding the purpose and motivation behind actions, Sinek provides insights and examples from various industries and leaders."
 ---
 
