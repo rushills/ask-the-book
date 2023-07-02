@@ -3,6 +3,7 @@ title: The Five Dysfunctions of a Team
 date: "2023-07-01T22:12:03.284Z"
 description: "The Five Dysfunctions of a Team is a leadership fable written by Patrick Lencioni. The book outlines the many pitfalls that teams face as they seek to 'row together'. Lencioni identifies five key dysfunctions that can derail even the most talented teams: absence of trust, fear of conflict, lack of commitment, avoidance of accountability, and inattention to results. The book is a quick read, but it packs a powerful punch, offering practical advice for leaders who want to build high-performing teams."
 ---
+
 ![The Five Dysfunctions of a Team](1687274424425.png)
 Teams are similar, yet they can be vastly different. There are authors and thinkers who attempt to summarize the reasons for team dysfunction. One such author is Patrick Lencioni. Let's examine his book, 'The Five Dysfunctions of a Team.'
 
