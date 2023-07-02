@@ -1,7 +1,7 @@
 ---
 title: Few questions to Good to Great
 date: "2023-07-02T22:12:03.284Z"
-description: "Few questions to \"Few questions to\""
+description: "Good to Great is a book written by Jim Collins in 2006. It explores the factors that differentiate good companies from great ones and provides insights on how companies can achieve greatness. The book is based on a five-year research project that involved studying 28 companies and identifying the common characteristics of those that made the leap from good to great. Collins argues that great companies have disciplined people, disciplined thought, and disciplined action. They also have a culture of discipline and focus on what they can be the best at. The book has been widely praised for its research-based approach and practical insights."
 ---
 
 >Good to Great is a book written by Jim Collins in 2006. It explores the factors that differentiate good companies from great ones and provides insights on how companies can achieve greatness. The book is based on a five-year research project that involved studying 28 companies and identifying the common characteristics of those that made the leap from good to great. Collins argues that great companies have disciplined people, disciplined thought, and disciplined action. They also have a culture of discipline and focus on what they can be the best at. The book has been widely praised for its research-based approach and practical insights. [1]

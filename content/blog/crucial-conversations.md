@@ -1,7 +1,7 @@
 ---
 title: Crucial Conversations
 date: "2023-06-21T22:12:03.284Z"
-description: "Few questions to \"Crucial Conversations\""
+description: "Crucial Conversations is a self-help book written by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler. The book discusses how to handle high-stakes conversations and provides techniques to communicate effectively in various situations. The authors emphasize the importance of creating a safe environment for dialogue and provide tools to help readers achieve this. The book has been well-received and has been praised for its practical advice and easy-to-understand language."
 ---
 
 Being an effective manager involves more than just sending messages. It requires active communication with colleagues and team members. This means engaging in conversations, actively listening, and seeking to understand everyone's perspectives. By being present and involved, managers can build stronger relationships and foster a more collaborative work environment.
