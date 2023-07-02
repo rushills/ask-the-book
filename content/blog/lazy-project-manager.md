@@ -1,7 +1,7 @@
 ---
 title: The Lazy Project Manager
 date: "2023-05-31T22:12:03.284Z"
-description: "Few questions to \"The Lazy Project Manager\""
+description: "The Lazy Project Manager: How to Be Twice as Productive and Still Leave the Office Early is a book written by Peter Taylor. It provides insights and strategies on how to increase productivity in project management while maintaining a healthy work-life balance. The book offers practical tips and techniques for managing projects more efficiently and effectively, allowing project managers to achieve their goals and still have time for personal pursuits."
 ---
 
 As a project manager, time management is one of the most crucial aspects of the job. It's a common challenge that every project manager faces, and it can be quite stressful. But hey, managing time effectively can make or break a project, so it's worth the effort. There are tons of memes, anecdotes, and stories about the stress that project managers experience at work. For instance, a project manager may have to deal with tight deadlines, unexpected delays, and constantly changing priorities. As a former developer turned manager, I can totally relate to the fact that the transition can be overwhelming. However, with experience and the right tools, it's totally possible to manage time effectively and deliver successful projects.
