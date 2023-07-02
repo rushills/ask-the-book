@@ -16,11 +16,9 @@ module.exports = {
     },
     description: `Asking my questions to books.`,
     siteUrl: `https://askthebook.tema-editor.app`,
-    /*
     social: {
       twitter: `rushills`,
     },
-    */
   },
   plugins: [
     `gatsby-plugin-image`,
