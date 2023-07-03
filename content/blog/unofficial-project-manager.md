@@ -28,7 +28,7 @@ In conclusion, "Project Management for the Unofficial Project Manager" equips pr
 https://www.goodreads.com/book/show/25325221-project-management-for-the-unofficial-project-manager?from_search=true&from_srp=true&qid=jC1vqvU565&rank=1
 
 
-You can ask your questions to the books yourself with tema-editor.app
+You can ask your questions to books with [tema-editor.app](https://wwww.tema-editor.app)
 
 
 # References

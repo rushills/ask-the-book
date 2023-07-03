@@ -26,7 +26,7 @@ In "Start with Why: How Great Leaders Inspire Everyone to Take Action," author S
 
 By embodying these qualities, leaders can inspire their teams to take action and work towards achieving the organization's purpose. [1]
 
-You can ask the book as weel with tema-editor.app
+You can ask your questions to books with [tema-editor.app](https://wwww.tema-editor.app)
 
 # References
 

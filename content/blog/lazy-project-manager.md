@@ -28,7 +28,7 @@ In summary, "The Lazy Project Manager" provides valuable insights and practical 
 
 https://www.goodreads.com/book/show/10146502-the-lazy-project-manager?from_search=true&from_srp=true&qid=uUXFRKt1pY&rank=1
 
-You can ask your questions to the books yourself with tema-editor.app
+You can ask your questions to books with [tema-editor.app](https://wwww.tema-editor.app)
 
 # References
 

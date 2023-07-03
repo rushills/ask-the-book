@@ -44,6 +44,8 @@ The authors emphasize that using STATE can help individuals to avoid becoming de
 4. The book also highlights the importance of listening actively and empathetically, and of avoiding common communication pitfalls such as defensiveness and aggression.
 5. Overall, the book aims to help readers improve their communication skills and build stronger relationships, both personally and professionally. [1]
 
+You can ask your questions to books with [tema-editor.app](https://wwww.tema-editor.app)
+
 # References
 
 1 - Patterson, K., & Grenny, J., & McMillan, R., & Switzler, A., & R., S. (2011). Crucial Conversations. McGraw-Hill Companies, The.
