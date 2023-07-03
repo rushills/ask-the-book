@@ -46,8 +46,6 @@ Sinek emphasizes the importance of understanding and communicating your "why" - 
 
 Remember, leading by example is not about being perfect, but about consistently demonstrating your values and inspiring others to do the same. By embodying your "why" and creating a culture of purpose, you can motivate and empower your team to take action and achieve great things. [1]
 
-You can ask the book as well with [tema-editor.app](https://www.tema-editor.app)
-
 # References
 
 1 - Title: Start with Why: How Great Leaders Inspire Everyone to Take Action,

@@ -27,10 +27,6 @@ In conclusion, "Project Management for the Unofficial Project Manager" equips pr
 
 https://www.goodreads.com/book/show/25325221-project-management-for-the-unofficial-project-manager?from_search=true&from_srp=true&qid=jC1vqvU565&rank=1
 
-
-You can ask the book as well with [tema-editor.app](https://www.tema-editor.app)
-
-
 # References
 
 1 - Title: Project Management for the Unofficial Project Manager: A FranklinCovey Title,

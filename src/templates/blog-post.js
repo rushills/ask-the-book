@@ -30,7 +30,7 @@ const BlogPostTemplate = ({
         <footer>
           <Bio />
           <div className="bio">
-            You can ask your questions to books yourself with <a href="https://www.tema-editor.app">tema-editor.app</a>
+            You can ask your questions to books yourself with&nbsp;<a href="https://www.tema-editor.app">tema-editor.app</a>
           </div>
         </footer>
       </article>

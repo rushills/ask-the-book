@@ -28,8 +28,6 @@ In summary, "The Lazy Project Manager" provides valuable insights and practical 
 
 https://www.goodreads.com/book/show/10146502-the-lazy-project-manager?from_search=true&from_srp=true&qid=uUXFRKt1pY&rank=1
 
-You can ask the book as well with [tema-editor.app](https://www.tema-editor.app)
-
 # References
 
 1 - Title: The Lazy Project Manager: How to Be Twice as Productive and Still Leave the Office Early,

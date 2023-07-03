@@ -39,8 +39,6 @@ According to the book, inattention to results is one of the five dysfunctions th
 
 We can draw a conclusion that a team's success is dependent on the ability of its members to work together effectively. The author identifies five key dysfunctions that can hinder a team's performance: absence of trust, fear of conflict, lack of commitment, avoidance of accountability, and inattention to results. By addressing these dysfunctions and building a cohesive team, organizations can improve their overall performance and achieve their goals. The book provides practical tools and strategies for leaders and team members to overcome these dysfunctions and build a strong, high-performing team. [1]
 
-You can ask the book as well with [tema-editor.app](https://www.tema-editor.app)
-
 # References
 
 1 - Lencioni, P. (2012). The Five Dysfunctions of a Team - Team Assessment. Pfeiffer.
