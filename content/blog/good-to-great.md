@@ -40,7 +40,7 @@ Thirdly, a strong team is characterized by a culture of discipline. They have a 
 
 Lastly, a strong team is led by a humble and visionary leader who sets high standards and inspires others to excel. The leader creates an environment of learning and growth, encourages collaboration, and empowers team members to take ownership of their work.
 
-You can ask your questions to books with [tema-editor.app](https://wwww.tema-editor.app)
+You can ask the book as well with [tema-editor.app](https://www.tema-editor.app)
 
 # References
 

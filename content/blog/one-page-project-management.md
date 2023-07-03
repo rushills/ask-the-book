@@ -60,7 +60,7 @@ By following these steps, you can create a one-page project summary that effecti
 
 I think it is interesting to present the project status to an audience who may not have a deep understanding of the project, such as the steering committee. However, I am not sure if it will work for real project management.
 
-You can ask your questions to books with [tema-editor.app](https://wwww.tema-editor.app)
+You can ask the book as well with [tema-editor.app](https://www.tema-editor.app)
 
 # References
 
