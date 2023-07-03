@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link } from "gatsby"
+import { StaticImage } from "gatsby-plugin-image"
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -27,7 +28,17 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
+        <a href="https://www.gatsbyjs.com">Gatsby</a>&nbsp;and&nbsp;AI powered <a href="https://www.tema-editor.app">Tema-Editor</a>.
+        <div>
+          <a href="https://apps.apple.com/us/app/tema-editor/id6447260432?mt=12">
+          <StaticImage
+        layout="fixed"
+        formats={["auto", "webp", "avif"]}
+        src="../images/app-store-mac.png"
+        alt="Get Tema-Editor on AppStore for macOS"
+      />
+          </a>
+        </div>
       </footer>
     </div>
   )
