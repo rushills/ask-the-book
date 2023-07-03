@@ -29,9 +29,6 @@ const BlogPostTemplate = ({
         <hr />
         <footer>
           <Bio />
-          <div className="bio">
-            You can ask your questions to books yourself with&nbsp;<a href="https://www.tema-editor.app">tema-editor.app</a>
-          </div>
         </footer>
       </article>
       <nav className="blog-post-nav">
