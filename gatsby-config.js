@@ -121,26 +121,5 @@ module.exports = {
         icon: `src/images/buky.png`, // This path is relative to the root of the site.
       },
     },
-    {
-      resolve: `gatsby-plugin-google-gtag`,
-      options: {
-        // You can add multiple tracking ids and a pageview event will be fired for all of them.
-        trackingIds: [
-          "G-DESG9XZ8JD", // Google Analytics / GA// Marketing Platform advertising products (Display & Video 360, Search Ads 360, and Campaign Manager)
-        ],
-        pluginConfig: {
-          // Puts tracking script in the head instead of the body
-          head: false,
-          // Setting this parameter is also optional
-          respectDNT: true,
-          // Avoids sending pageview hits from custom paths
-          exclude: ["/preview/**", "/do-not-track/me/too/"],
-          // Defaults to https://www.googletagmanager.com
-          //origin: "askthebook.tema-editor.app",
-          // Delays processing pageview events on route update (in milliseconds)
-          delayOnRouteUpdate: 0,
-        },
-      },
-    },
   ],
 }
