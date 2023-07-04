@@ -156,7 +156,7 @@ module.exports = {
           // Avoids sending pageview hits from custom paths
           exclude: ["/preview/**", "/do-not-track/me/too/"],
           // Defaults to https://www.googletagmanager.com
-          origin: "askthebook.tema-editor.app",
+          //origin: "askthebook.tema-editor.app",
           // Delays processing pageview events on route update (in milliseconds)
           delayOnRouteUpdate: 0,
         },
