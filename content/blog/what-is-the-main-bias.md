@@ -1,5 +1,5 @@
 ---
-title: "Unveiling the Power of Biases: Confirmation and Availability Bias in Action"
+title: "What is the main Bias: Confirmation and Availability?"
 date: "2023-07-06T22:12:03.284Z"
 description: "Bias refers to a systematic deviation from rationality or fairness in judgment or decision-making. It is a cognitive tendency or inclination that can influence our perceptions, beliefs, and actions. Bias can occur at various levels, including individual, group, or societal levels. It can be conscious or unconscious, and it can affect various aspects of our lives, such as how we interpret information, make decisions, or interact with others."
 ---
