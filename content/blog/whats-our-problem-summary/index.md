@@ -80,7 +80,7 @@ The book provides a number of suggestions for how we can do this. These include:
 Learning to think like a scientist. Scientists are trained to be skeptical of information and to question everything. We need to learn to do the same.
 
 
-**Creating idea labs. Idea labs are places where people from different backgrounds and with different viewpoints can come together to discuss problems and solutions.
+Creating idea labs. Idea labs are places where people from different backgrounds and with different viewpoints can come together to discuss problems and solutions.
 
 
 Challenging our own beliefs. We need to be willing to challenge our own beliefs and to be open to new ideas.
