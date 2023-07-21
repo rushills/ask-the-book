@@ -24,6 +24,7 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
+      <img alt="Ask the book blog" src={data.image.publicURL} />
       <Bio />
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
@@ -70,12 +71,16 @@ export default BlogIndex
  */
 export const Head = () => <Seo title="All posts" />
 
+
 export const pageQuery = graphql`
   {
     site {
       siteMetadata {
         title
       }
+    }
+    image: file(base: { eq: "ask-the-book.jpg" }) {
+      publicURL
     }
     allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
       nodes {
