@@ -38,6 +38,15 @@ const Layout = ({ location, title, children }) => {
         alt="Get Tema-Editor on AppStore for macOS"
       />
           </a>
+
+          <a href="/rss.xml">
+            <StaticImage
+              layout="fixed"
+              formats={["auto", "webp", "avif"]}
+              height = "32"
+              src="../images/rss.png"
+            alt="RSS feed for Ask the Book Blog"
+        /></a>
         </div>
       </footer>
     </div>
