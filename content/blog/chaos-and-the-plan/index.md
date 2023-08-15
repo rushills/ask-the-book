@@ -3,7 +3,7 @@ title: "Dealing with uncertain world - Chaos and the plan"
 date: 2023-08-08
 description: "'Chaos and the Plan' by John Legge explores the concept of chaos and its role in leadership and decision-making. The book emphasizes that luck plays a significant role in success, even for those who may not be as skilled or intelligent. It also highlights the risks that leaders must take and the fear of appearing foolish or silly. The author uses examples from nature, such as the behavior of emperor penguins, to illustrate the dynamics of leadership and followership. The book also delves into the unpredictability of economics and how decisions made by economists can have unforeseen consequences. Overall, 'Chaos and the Plan' offers insights into the complex and often chaotic nature of leadership and decision-making."
 ---
-![Alt](cover.png)
+![Dealing with uncertain world - Chaos and the plan](cover.png)
 
 I had such a great time reading the book! It really got my mind buzzing with all sorts of interesting thoughts and ideas. I totally agree that we live in a world where dealing with chaos is just a part of life. But you know what? It's important to approach chaos with respect and recognize how it affects us. That way, we can do our best to handle all the twists and turns it throws our way. And hey, in the midst of all that chaos, we can still find ways to grow and find harmony in our crazy world.
 ## My notes
